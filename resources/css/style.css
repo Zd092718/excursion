@@ -1,5 +1,6 @@
-.page {
+.body {
     background-color: black;
+    text-align: center;
 }
 .title {
     font-family: Verdana;
@@ -11,4 +12,11 @@
 .download {
     color: aquamarine;
     text-align: center;
+}
+.title2 {
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    font-family: Verdana;
+    font-size: 42px;
 }
